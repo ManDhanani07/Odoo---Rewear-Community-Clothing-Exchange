@@ -1,5 +1,7 @@
 # Odoo---Rewear-Community-Clothing-Exchange
 
+Problem Statement:- ReWear – Community Clothing Exchange 
+
 ## 👥 Team Members
 
 | Name            | Email-id                     |
