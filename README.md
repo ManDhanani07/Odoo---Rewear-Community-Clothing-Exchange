@@ -10,3 +10,5 @@ Problem Statement:- ReWear – Community Clothing Exchange
 | Kirtan Jogani   | kirtanjogani3@gmail.com      |
 | Pal Gabani      | palgabani65@gmail.com        |
 | Vraj Goti       | 24aiml011@charusat.edu.in    |
+
+Video Link: https://drive.google.com/file/d/1T9JpOD8cW3plhgrEXyFayS7QvwV38WqR/view?usp=sharing
